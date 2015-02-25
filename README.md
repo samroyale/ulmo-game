@@ -1,5 +1,5 @@
 # Ulmo's Adventure
-<h3>A game implemented in python/pygame for the Raspberry Pi.</h3>
+###A game implemented in python/pygame for the Raspberry Pi.
 
 Help Ulmo evade enemies, collect coins and find his way to the end of an amazing (but short) adventure. Use cursor keys to move, space to do stuff, X to toggle sound and ESC to quit.
 
