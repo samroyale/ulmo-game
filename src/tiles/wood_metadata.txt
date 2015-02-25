@@ -1,0 +1,26 @@
+0,0 st1
+1,0 hbr1
+2,0 hbr2
+3,0 hbr3
+4,0 post_top
+5,0 l_supp
+6,0 r_supp
+7,0 c_supp
+
+0,1 st2
+1,1 v_br1
+2,1 v_br2
+3,1 v_br3
+4,1 post
+5,1 lls_supp
+6,1 supp
+7,1 lrs_supp
+
+0,2 st3
+1,2
+2,2 post_combi
+3,2 stump
+4,2 post_base
+5,2 crs_supp
+6,2 cs_supp
+7,2 cls_supp

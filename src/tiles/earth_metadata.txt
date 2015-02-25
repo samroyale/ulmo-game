@@ -1,0 +1,89 @@
+0,0 tl
+1,0 t1
+2,0 trs
+3,0 ts
+4,0 tls
+5,0 tr
+6,0 tlrs
+7,0 trls
+8,0 tc
+
+0,1 l
+1,1 n
+2,1 rs
+3,1 s
+4,1 ls
+5,1 r
+6,1 lrs
+7,1 rls
+8,1 c
+
+0,2 bl
+1,2 b1
+2,2 brs
+3,2 bs
+4,2 bls
+5,2 br
+6,2 blrs
+7,2 brls
+8,2 bc
+
+0,3 ml
+1,3 m1
+2,3 m2
+3,3 m3
+4,3 mr
+5,3 mlrs
+6,3 ms
+7,3 mrls
+8,3 mc
+
+0,4 b2
+1,4 b3
+2,4 t2
+3,4 t3
+4,4 mrs
+5,4 mls
+6,4 
+7,4 drop
+8,4 crackn
+
+0,5 tel
+1,5 ter
+2,5 telrs
+3,5 terls
+4,5 mel
+5,5 mer
+6,5 melrs
+7,5 merls
+8,5 crackb
+
+0,6 dark
+1,6 lhd
+2,6 rhd
+3,6 td
+4,6 tld
+5,6 trd
+6,6 light
+7,6 lhl
+8,6 rhl
+
+0,7 al
+1,7 ac
+2,7 ar
+3,7 arrs
+4,7 alls
+5,7 acrs
+6,7 acls
+7,7 acs
+8,7
+
+0,8 ttel
+1,8 tter
+2,8 aldrop
+3,8 ardrop
+4,8 acel
+5,8 acer
+6,8
+7,8
+8,8

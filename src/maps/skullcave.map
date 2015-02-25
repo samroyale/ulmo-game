@@ -1,0 +1,281 @@
+0,0
+1,0
+2,0
+3,0
+4,0
+5,0
+6,0 dungeon:wbrcn
+7,0 dungeon:wb1
+8,0 dungeon:wb1
+9,0 dungeon:wb1
+10,0 dungeon:wb1
+11,0 dungeon:wblcn
+12,0
+13,0
+14,0
+15,0
+
+0,1
+1,1
+2,1
+3,1
+4,1
+5,1
+6,1 dungeon:dark dungeon:wr1 dungeon:lb
+7,1 dungeon:dark dungeon:mls
+8,1 dungeon:dark dungeon:m1 objects:skull_ftop
+9,1 dungeon:dark dungeon:m1
+10,1 dungeon:dark dungeon:mrs
+11,1 dungeon:dark dungeon:wl2
+12,1
+13,1
+14,1
+15,1
+
+0,2
+1,2
+2,2 dungeon:wbrcn
+3,2 dungeon:wb2
+4,2 dungeon:wb3
+5,2 dungeon:wb2
+6,2 dungeon:light dungeon:wbr
+7,2 [1] dungeon:ms
+8,2 dungeon:ms dungeon:os1 objects:skull_base1
+9,2 [1] dungeon:ms
+10,2 [1] dungeon:ms
+11,2 dungeon:light dungeon:wbl
+12,2 dungeon:wblcn
+13,2
+14,2
+15,2
+
+0,3
+1,3
+2,3 dungeon:dark dungeon:wr1 dungeon:lb
+3,3 dungeon:dark dungeon:mls
+4,3 dungeon:dark dungeon:m2
+5,3 dungeon:dark dungeon:m2
+6,3 dungeon:dark dungeon:mr
+7,3 [1] dungeon:n1
+8,3 [1] dungeon:os2
+9,3 [1] dungeon:n1
+10,3 [1] dungeon:n1 objects:skull_ftop:V2
+11,3 dungeon:dark dungeon:mlrs
+12,3 dungeon:dark dungeon:wl1
+13,3
+14,3
+15,3
+
+0,4
+1,4
+2,4 dungeon:light dungeon:wr1 dungeon:lb
+3,4 [1] dungeon:ms
+4,4 [1] dungeon:ms
+5,4 [1] dungeon:ms
+6,4 [1] dungeon:nrs
+7,4 [1] dungeon:n1
+8,4 [1] dungeon:n5
+9,4 [1] dungeon:n1
+10,4 dungeon:n1 dungeon:os1 objects:skull_base2
+11,4 [1] dungeon:nls
+12,4 dungeon:n1 dungeon:wl1
+13,4
+14,4
+15,4
+
+0,5
+1,5
+2,5 dungeon:n1 dungeon:wr3 dungeon:lb
+3,5 [1] dungeon:n4
+4,5 [1] dungeon:n1
+5,5 [1] dungeon:n1 dungeon:wtl:2
+6,5 [1] dungeon:n1 dungeon:wt2:2
+7,5 [1] dungeon:n1 dungeon:wtr:2
+8,5 [1] dungeon:n1
+9,5 [1] dungeon:n1
+10,5 [1] dungeon:os2
+11,5 [1] dungeon:n6
+12,5 dungeon:n1 dungeon:wl3
+13,5
+14,5
+15,5
+
+0,6
+1,6
+2,6 dungeon:n1 dungeon:wr2 dungeon:lb
+3,6 [1] dungeon:n1 dungeon:n6
+4,6 [1] dungeon:n1
+5,6 dungeon:n1 dungeon:wl3
+6,6
+7,6 dungeon:n1 dungeon:wr3 dungeon:lb
+8,6 [1] dungeon:n1
+9,6 [1] dungeon:n1
+10,6 [1] dungeon:n1
+11,6 [1] dungeon:n1
+12,6 dungeon:n1 dungeon:wl1
+13,6
+14,6
+15,6
+
+0,7
+1,7
+2,7 dungeon:n1 dungeon:wr3 dungeon:lb
+3,7 [1] dungeon:n1
+4,7 [1] dungeon:n1
+5,7 dungeon:n1 dungeon:wl1
+6,7
+7,7 dungeon:n1 dungeon:wr1 dungeon:lb
+8,7 [1] dungeon:n1 dungeon:n6
+9,7 [1] dungeon:n1
+10,7 [1] dungeon:n4
+11,7 [1] dungeon:n1
+12,7 dungeon:n1 dungeon:wl2
+13,7
+14,7
+15,7
+
+0,8
+1,8
+2,8 dungeon:n1 dungeon:wr1 dungeon:lb
+3,8 [1] dungeon:n1
+4,8 [1] dungeon:n4
+5,8 dungeon:n1 dungeon:wl3
+6,8
+7,8 dungeon:wtrcn
+8,8 [1] dungeon:n1 dungeon:wt2:2
+9,8 [1] dungeon:n1 dungeon:wt2:2 dungeon:wbrcn:2
+10,8 [1] dungeon:n1 dungeon:wt2:2 dungeon:wb6:2
+11,8 [1] dungeon:n1 dungeon:wt3:2 dungeon:wb6:2
+12,8 dungeon:wtlcn dungeon:wb6
+13,8 dungeon:wb7
+14,8 dungeon:wblcn
+15,8
+
+0,9
+1,9
+2,9 dungeon:n1 dungeon:wr3 dungeon:lb
+3,9 [1] dungeon:n1
+4,9 [1] dungeon:n1
+5,9 dungeon:n1 dungeon:wl1
+6,9
+7,9
+8,9
+9,9 dungeon:dark dungeon:wr1 dungeon:lb
+10,9 dungeon:dark dungeon:mls
+11,9 dungeon:dark dungeon:m2
+12,9 dungeon:dark dungeon:m2
+13,9 dungeon:dark dungeon:mrs objects:skull_ftop
+14,9 dungeon:dark dungeon:wl1
+15,9
+
+0,10
+1,10
+2,10 dungeon:n1 dungeon:wr1 dungeon:lb
+3,10 [1] dungeon:n1
+4,10 [1] dungeon:n1 dungeon:n6
+5,10 dungeon:n1 dungeon:wbl
+6,10 dungeon:wb6
+7,10 dungeon:wb6
+8,10 dungeon:wblcn
+9,10 dungeon:light dungeon:wr2 dungeon:lb
+10,10 [1] dungeon:ms
+11,10 [1] dungeon:ms
+12,10 [1] dungeon:ms
+13,10 [1] dungeon:ms dungeon:os1 objects:skull_base1
+14,10 dungeon:light dungeon:wbl
+15,10 dungeon:wb3
+
+0,11
+1,11
+2,11 dungeon:wtrcn
+3,11 [1] dungeon:n1 dungeon:wtr:2
+4,11 [1] dungeon:n1
+5,11 dungeon:dark dungeon:ml
+6,11 dungeon:dark dungeon:m1
+7,11 dungeon:dark dungeon:mrs
+8,11 dungeon:dark dungeon:wl1
+9,11 dungeon:n1 dungeon:wr3 dungeon:lb
+10,11 [1] dungeon:n1 dungeon:n6
+11,11 [1] dungeon:n1
+12,11 [1] dungeon:n1
+13,11 [1] dungeon:os2
+14,11 dungeon:dark dungeon:ml
+15,11 dungeon:dark dungeon:m1
+
+0,12
+1,12
+2,12
+3,12 dungeon:n1 dungeon:wr1 dungeon:lb
+4,12 [1] dungeon:n1
+5,12 [1] dungeon:nls
+6,12 [1] dungeon:ms
+7,12 [1] dungeon:ms
+8,12 dungeon:light dungeon:wl1
+9,12 dungeon:n1 dungeon:wr1 dungeon:lb
+10,12 [1] dungeon:n1
+11,12 [1] dungeon:n1
+12,12 [1] dungeon:n4
+13,12 [1] dungeon:n1
+14,12 [1] dungeon:nls
+15,12 [1] dungeon:ms
+
+0,13
+1,13
+2,13
+3,13 dungeon:wtrcn
+4,13 [1] dungeon:n1 dungeon:wt3:2
+5,13 [1] dungeon:n1 dungeon:wt3:2
+6,13 [1] dungeon:n1 dungeon:wtr:2
+7,13 [1] dungeon:n1
+8,13 dungeon:n1 dungeon:wl2
+9,13 dungeon:n1 dungeon:wr1 dungeon:lb
+10,13 [1] dungeon:n1
+11,13 [1] dungeon:n1
+12,13 [1] dungeon:n1
+13,13 [1] dungeon:n1
+14,13 [1] dungeon:n1 dungeon:wtl
+15,13 [1] dungeon:n1 dungeon:wt3
+
+0,14
+1,14
+2,14
+3,14
+4,14
+5,14
+6,14 dungeon:n1 dungeon:wr3 dungeon:lb
+7,14 [1] dungeon:n1 dungeon:n4
+8,14 dungeon:n1 dungeon:wl3
+9,14 dungeon:wtrcn
+10,14 [1] dungeon:n1 dungeon:wt1
+11,14 [1] dungeon:n1 dungeon:wt3
+12,14 [1] dungeon:n1 dungeon:wt1
+13,14 [1] dungeon:n1 dungeon:wt1
+14,14 dungeon:wtlcn
+15,14
+
+0,15
+1,15
+2,15
+3,15
+4,15
+5,15
+6,15 dungeon:n1 dungeon:wr1 dungeon:lb
+7,15 [1] dungeon:n1
+8,15 dungeon:n1 dungeon:wl1
+9,15
+10,15
+11,15
+12,15
+13,15
+14,15
+15,15
+
+sprite flames 2 8,1
+sprite flames 2 10,3
+sprite flames 2 13,9
+sprite coin 1 9,6
+sprite beetle 1 4,4 4,13
+sprite beetle 1 3,5 3,11 3,4
+sprite chest 1 11,11
+
+event boundary down 7 : transition forest 7,3 3 down

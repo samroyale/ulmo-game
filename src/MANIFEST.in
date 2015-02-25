@@ -1,0 +1,6 @@
+recursive-include images *.png
+recursive-include maps *.map
+recursive-include music *.ogg
+recursive-include sounds *.wav
+recursive-include sprites *.png
+recursive-include tiles *.png *.txt

@@ -1,0 +1,34 @@
+0,0 tree_tl1
+1,0 tree_tr1
+2,0 tree_tl2
+3,0 tree_tr2
+
+0,1 tree_ml1
+1,1 tree_mr1
+2,1 tree_ml2
+3,1 tree_mr2
+
+0,2 tree_bl1
+1,2 tree_br1
+2,2 tree_bl2
+3,2 tree_br2
+
+0,3 tree_tml1
+1,3 tree_tmr1
+2,3 tree_tml2
+3,3 tree_tmr2
+
+0,4 tree_tml3
+1,4 tree_tmr3
+2,4 tree_tml4
+3,4 tree_tmr4
+
+0,5 easter_top
+1,5
+2,5 skull_top
+3,5 skull_ftop
+
+0,6 easter_base
+1,6
+2,6 skull_base1
+3,6 skull_base2
