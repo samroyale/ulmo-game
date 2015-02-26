@@ -1,3 +1,6 @@
-MANIFEST
-dist/
+/src/MANIFEST
+/src/dist/
+/.project
+/.pydevproject
 *.pyc
+

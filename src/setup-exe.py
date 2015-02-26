@@ -6,14 +6,14 @@ import py2exe
 
 setup(windows = ["play.py"],
       # console = ["play.py"],
-      name = "rpg-world",
-      version = "1.0",
+      name = "ulmo-game",
+      version = "1.1",
       packages=["rpg"],
       author="Sam Eldred",
       author_email="samuel.eldred@gmail.com",
-      url="http://code.google.com/p/rpg-world/",
+      url="https://github.com/samroyale/ulmo-game",
       license="GNU GPL v3",
-      description="Game/game engine written in Python/Pygame",
+      description="A game implemented in python/pygame for the Raspberry Pi",
       long_description="""16-bit style graphics, a top-down perspective and tile-based maps - a
           retro style RPG much like the old SNES classics. Also features some pseudo-3D elements,
           eg. the ability to move underneath bridges, etc.""",
