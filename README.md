@@ -19,8 +19,13 @@ Rasberry Pi Users
 Other Platforms
 > Will need to have python + pygame installed (my current dev platform is OSX with Python 2.7.8 + Pygame 1.9.1)
 
-To run it
+To run it:
 ```
-$ cd src
-$ python play.py
+$ ./run.sh
 ```
+
+To build it (this will create *ulmo-game-1.1.tar.gz* under *src/dist*):
+```
+$ ./build.sh
+```
+
