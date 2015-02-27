@@ -17,7 +17,7 @@ Rasberry Pi Users
 > Should run out of the box on any recent Raspbian distribution
 
 Other Platforms
-> Will need to have python + pygame installed (my current dev platform is OSX with Python 2.7.8 + Pygame 1.9.1)
+> Will need to have Python + Pygame installed (my current dev platform is OSX with Python 2.7.8 + Pygame 1.9.1)
 
 To run it:
 ```
