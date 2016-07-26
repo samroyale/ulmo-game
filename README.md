@@ -11,7 +11,9 @@ Pygame: http://pygame.org/project-Ulmo%27s+Adventure-2042-4658.html
 
 ![Title screen](http://i.imgur.com/zLdNJEH.png)
 
-![Screen grab](http://i.imgur.com/nHshMfb.png)
+![Screen grab 1](http://i.imgur.com/nHshMfb.png)
+
+![Screen grab 2](http://i.imgur.com/zH6n5qs.png)
 
 Rasberry Pi Users
 > Should run out of the box on any recent Raspbian distribution
