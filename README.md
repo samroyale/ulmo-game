@@ -7,10 +7,9 @@ Help Ulmo evade enemies, collect coins and find his way to the end of an amazing
 
 Graphics were created in Gimp, sounds in CFXR and soundtrack in Pxtone. The game itself is implemented in Python/Pygame and the map editor is in Java SWT.
 
-Pi Store: http://store.raspberrypi.com/projects/ulmos-adventure
-
 Pygame: http://pygame.org/project-Ulmo%27s+Adventure-2042-4658.html
 
+![Title screen](http://i.imgur.com/zLdNJEH.png)
 ![Screen grab](http://i.imgur.com/nHshMfb.png)
 
 Rasberry Pi Users
