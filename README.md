@@ -11,7 +11,7 @@ Pi Store: http://store.raspberrypi.com/projects/ulmos-adventure
 
 Pygame: http://pygame.org/project-Ulmo%27s+Adventure-2042-4658.html
 
-<img src="http://assets.indiecity.com/5946cddc-ab6c-4527-b0f8-746ed520a4f9/screenshot_1396800582.png" />
+![Screen grab](http://i.imgur.com/nHshMfb.png)
 
 Rasberry Pi Users
 > Should run out of the box on any recent Raspbian distribution
